@@ -10,7 +10,7 @@ build/
 public/static/
 cache/
 deploy.zip
-
+.next/
 # Miscellaneous
 .DS_Store
 .env
